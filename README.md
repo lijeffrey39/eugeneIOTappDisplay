@@ -1,4 +1,4 @@
-# iOS App that integrates API.AI, Speech Recognition and Text to Speech
+# iOS App with integration of API.AI, Speech Recognition and Text to Speech
 
 ==============
 
